@@ -3,7 +3,7 @@ Repository for the StARRS-Ground project software, including the drone radar sys
 
 Each component has their own section, including:
 
-# Drone Radar System
+# [Drone Radar System](Drone%20Radar%20System)
 
 This section provides the Software for:
 
@@ -13,15 +13,15 @@ This section provides the Software for:
 - **Global Navigation Satellite System (GNSS) corrections** - Overview of the EMLID software suite for precise platform positioning using Post Process Kinematics (PPK).
 - **Interferometric Synthetic Aperture Radar (InSAR) post-processing** - Scripts for InSAR processing of drone radar data.
 
-# GB-SAR System
+# [GB-SAR System] (GB-SAR%20System)
 
 This section provides the Software for:
 
 - **System control** - Arduino scripts for linear rail operation (movement and speed control).
-- **Raw radar data collection** - Ettus USRP UHD N200+CBX C++ and LibreVNA Python scripts.
+- **Raw radar data collection** - Ettus USRP UHD N200+CBX C++ and LibreVNA Python scripts for continuous data collection.
 - **SAR post-processing** - Scripts for SAR image formation using the linear rail.
 
-# Laboratory Testing
+# [Laboratory Testing] (Laboratory%20Testing)
 
 This section provides the Software for:
 
