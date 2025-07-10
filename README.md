@@ -1,7 +1,5 @@
 # StARRS-Ground
-Repository for the StARRS-Ground project software, including the drone radar system and Ground-Based Synthetic Aperture Radar (GB-SAR) system.
-
-Each component has their own section, including:
+Repository for the StARRS-Ground project software, including the drone radar system and Ground-Based Synthetic Aperture Radar (GB-SAR) system. Each component has their own section, including:
 
 # [Drone Radar System](Drone%20Radar%20System)
 
@@ -12,6 +10,7 @@ This section provides the Software for:
 - **Radio Frequency (RF) triggering** - RF telemetry scripts for remote data triggering.
 - **Global Navigation Satellite System (GNSS) corrections** - Overview of the EMLID software suite for precise platform positioning using Post Process Kinematics (PPK).
 - **Interferometric Synthetic Aperture Radar (InSAR) post-processing** - Scripts for InSAR processing of drone radar data.
+- **Photogrammetry** - Overview of software used to produce drone photogrammetric models for data visualisation.
 
 # [GB-SAR System](GB-SAR%20System)
 
