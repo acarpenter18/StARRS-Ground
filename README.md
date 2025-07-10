@@ -6,10 +6,15 @@ Repository for the StARRS-Ground project software, including the drone radar sys
 This section provides the Software for:
 
 - **Raw Frequency Modulated Continuous Wave (FMCW) radar data collection** - Ettus Universal Software Radio Peripheral (USRP) Hardware Driver (UHD) E312 C++ scripts.
+  
 - **SAR post-processing** - Range Migration Algorithm (RMA) MATLAB script.
+  
 - **Radio Frequency (RF) triggering** - RF telemetry scripts for remote data triggering.
+  
 - **Global Navigation Satellite System (GNSS) corrections** - Overview of the EMLID software suite for precise platform positioning using Post Process Kinematics (PPK).
+  
 - **Interferometric Synthetic Aperture Radar (InSAR) post-processing** - Scripts for InSAR processing of drone radar data.
+  
 - **Photogrammetry** - Overview of software used to produce drone photogrammetric models for data visualisation.
 
 # [GB-SAR System](GB-SAR%20System)
@@ -17,7 +22,9 @@ This section provides the Software for:
 This section provides the Software for:
 
 - **System control** - Arduino scripts for linear rail operation (movement and speed control).
+  
 - **Raw radar data collection** - Ettus USRP UHD N200+CBX C++ and LibreVNA Python scripts for continuous data collection.
+  
 - **SAR post-processing** - Scripts for SAR image formation using the linear rail.
 
 # [Laboratory Testing](Laboratory%20Testing)
