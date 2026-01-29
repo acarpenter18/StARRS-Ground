@@ -15,7 +15,7 @@ This section provides the Software for:
   
 - **Interferometric Synthetic Aperture Radar (InSAR) post-processing** - Scripts for InSAR processing of drone radar data.
   
-- **Photogrammetry** - Overview of software used to produce drone photogrammetric models for data visualisation.
+- **Photogrammetry** - Overview of the software used to produce drone photogrammetric models for data visualisation.
 
 # [GB-SAR System](GB-SAR%20System)
 
